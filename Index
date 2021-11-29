@@ -21,6 +21,6 @@
     </style>
 </head>
 <body>
-    <iframe src="/resume/pdf.pdf"></iframe>
+    <iframe src="https://github.com/csqCory/resume/blob/master/resume.pdf"></iframe>
 </body>
 </html>
